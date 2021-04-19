@@ -3,6 +3,7 @@ package com.mycompany.app;
 /**
  * Hello world!
  this is modified by satya
+this is modified second time on git client
  */
 public class App
 {
